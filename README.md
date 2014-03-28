@@ -1,4 +1,4 @@
 xyzlast-maven-repo
 ==================
 
-Debop maven repository
+xyzlast maven repository
